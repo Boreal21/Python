@@ -1,2 +1,0 @@
-Clases de Python 2024
-# Ariadna
